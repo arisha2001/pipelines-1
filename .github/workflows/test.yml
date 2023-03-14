@@ -14,4 +14,4 @@ jobs:
       - name: Logs app
         run: docker-compose logs postgresql
       - name: Logs app
-        run: docker logs pipelines_app_1
+        run: docker logs pipelines-1_app_1
